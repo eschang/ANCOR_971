@@ -1,6 +1,8 @@
 # ANCOR_971
 CSV files, coreference annotation in Guadeloupean Creole.
 You can cite it: 
+
+
 @inproceedings{schang:hal-01627260,
   TITLE = {{Les cha{\^i}nes cor{\'e}f{\'e}rentielles en cr{\'e}ole de la Guadeloupe}},
   AUTHOR = {Schang, Emmanuel and Antoine, Jean-Yves and Lefeuvre-Halftermeyer, Ana{\"i}s},
